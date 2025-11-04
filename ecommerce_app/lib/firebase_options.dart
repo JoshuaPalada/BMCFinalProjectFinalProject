@@ -25,22 +25,19 @@ class DefaultFirebaseOptions {
       case TargetPlatform.iOS:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for ios - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
+              'you can reconfigure this by running the FlutterFire CLI again.',
         );
       case TargetPlatform.macOS:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for macos - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
+              'you can reconfigure this by running the FlutterFire CLI again.',
         );
       case TargetPlatform.windows:
-        throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for windows - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
-        );
+        return windows;
       case TargetPlatform.linux:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for linux - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
+              'you can reconfigure this by running the FlutterFire CLI again.',
         );
       default:
         throw UnsupportedError(
@@ -64,5 +61,14 @@ class DefaultFirebaseOptions {
     messagingSenderId: '264880580737',
     projectId: 'my-ecommerce-app-222-cbed5',
     storageBucket: 'my-ecommerce-app-222-cbed5.firebasestorage.app',
+  );
+
+  static const FirebaseOptions windows = FirebaseOptions(
+    apiKey: 'AIzaSyBz0pX9sVfx-sBmms-tbTR6aHN3_OMxqhM',
+    appId: '1:337473087645:web:1d01891110d6936c918c74',
+    messagingSenderId: '337473087645',
+    projectId: 'my-ecommerce-app-down',
+    authDomain: 'my-ecommerce-app-down.firebaseapp.com',
+    storageBucket: 'my-ecommerce-app-down.firebasestorage.app',
   );
 }
