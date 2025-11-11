@@ -5,18 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f17b5b5b-b18d-47ea-9a35-203d2c3b59d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/macos/Runner/Release.entitlements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce_app/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/admin_chat_list_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/chat_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/notifications_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/payment_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/profile_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce_app/lib/widgets/chat_bubble.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce_app/lib/widgets/notification_icon.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Palada_Flutter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Palada_Flutter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/providers/cart_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/providers/cart_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/screens/admin_order_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/admin_order_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/screens/admin_panel_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/admin_panel_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/screens/auth_wrapper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/auth_wrapper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/screens/cart_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/cart_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/screens/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/screens/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/login_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/screens/order_history_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/order_history_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/screens/order_success_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/order_success_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/screens/product_detail_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/product_detail_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/screens/signup_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/screens/signup_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/widgets/order_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/widgets/order_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/lib/widgets/product_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/lib/widgets/product_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce_app/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,23 +51,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Palada_Flutter",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Palada_Flutter&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f17b5b5b-b18d-47ea-9a35-203d2c3b59d1" name="Changes" comment="" />
